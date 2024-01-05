@@ -1,0 +1,39 @@
+.label{
+    -fx-font-size: 14px;
+}
+
+.label-tMin{
+    -fx-font-weight: bold;
+    -fx-text-fill: red;
+    -fx-font-size: 14px;
+}
+.label-tMax{
+    -fx-font-weight: bold;
+    -fx-text-fill: blue;
+    -fx-font-size: 14px;
+}
+.label-tMax{
+    -fx-font-weight: bold;
+    -fx-text-fill: blue;
+    -fx-font-size: 14px;
+}
+.label-dayOfWeek{
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+    -fx-font-size: 20px;
+}
+.label-precipitation{
+    -fx-font-weight: bold;
+    -fx-text-fill: gray;
+    -fx-font-size: 14px;
+}
+
+.label-date{
+    -fx-text-fill: gray;
+    -fx-font-size: 10px;
+
+}
+
+.button{
+   -fx-border-width: 2px;
+}
